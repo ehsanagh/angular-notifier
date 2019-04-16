@@ -90,5 +90,13 @@
 		"webpack-cli": "3.0.x",
 		"webpack-dev-server": "3.1.x",
 		"zone.js": "0.8.26"
-	}
+	},
+	"module": "esm5/angular-notifier.js",
+	"es2015": "esm2015/angular-notifier.js",
+	"esm5": "esm5/angular-notifier.js",
+	"esm2015": "esm2015/angular-notifier.js",
+	"fesm5": "fesm5/angular-notifier.js",
+	"fesm2015": "fesm2015/angular-notifier.js",
+	"main": "bundles/angular-notifier.umd.js",
+	"typings": "angular-notifier.d.ts"
 }
